@@ -10,6 +10,8 @@ Explain the problem statement.
 Include the steps involved in the value iteration algorithm
 
 ## VALUE ITERATION FUNCTION
+### Name:
+### Register Number:
 Include the value iteration function
 
 ## OUTPUT:
