@@ -6,7 +6,7 @@ Write the experiment AIM.
 ## PROBLEM STATEMENT
 Explain the problem statement.
 
-## POLICY ITERATION ALGORITHM
+## VALUE ITERATION ALGORITHM
 Include the steps involved in the value iteration algorithm
 
 ## VALUE ITERATION FUNCTION
